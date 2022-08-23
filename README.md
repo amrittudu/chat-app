@@ -1,7 +1,7 @@
 # lets chat-app
 # Steps to Start the App
 
-## Install the Public Dependencies "npm install express"
+## Install the Public Dependencies "npm install react"
 ## Install the Server Dependencies "npm install express"
 ## In the Server Directory there's a .env file. Change the value of mongodb inside the file. Set the value as your mongodb connection url.
 ## It is set to default.
